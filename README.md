@@ -3,3 +3,7 @@
     EMNLP 2025
 </h2>
 
+* `data/`: 
+  - `data/real/`:
+  - `data/synthetic/`:
+* `script/`:
