@@ -3,6 +3,10 @@
     EMNLP 2025
 </h2>
 
+<p align="center">
+  <img src="misc/fig1.png" width="500px" />
+</p>
+
 * `data/`: 
   - `data/real/`:
   - `data/synthetic/`:
