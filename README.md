@@ -7,3 +7,4 @@
   - `data/real/`:
   - `data/synthetic/`:
 * `script/`:
+  - `create_syn.py`:
